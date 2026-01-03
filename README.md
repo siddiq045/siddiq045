@@ -47,8 +47,8 @@ I'm **Abubakar Siddiq**
 
 ### 📫 How to Reach Me
 - **GitHub:** https://github.com/siddiq045  
-- **LinkedIn:** Add your LinkedIn link here  
-- **Email:** Add your email here  
+- **LinkedIn:** https://www.linkedin.com/in/siddiq45/
+- **Email:** siddiq4507@gmail.com
 
 ---
 
