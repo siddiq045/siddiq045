@@ -1,58 +1,60 @@
-## Hi there 👋
+# Hi, I'm Abubakar Siddiq 👋
 
-I'm **Abubakar Siddiq**  
-📊 Aspiring Data Scientist| 🤖 AI & ML Enthusiast | 📈 Data-Driven Thinker  
+AI & ML Engineer in the making — building intelligent systems, experimenting with LLMs & deep learning, and turning real-world problems into data-driven solutions.
 
----
-
-### 🚀 About Me
-- 🎓 Recent graduate with a strong interest in **Data Analytics, AI, and Machine Learning**
-- 🧠 Skilled in turning **raw data into actionable insights**
-- 📊 Experienced in **Python, SQL, Excel, Power BI, and Data Visualization**
-- 🔍 Passionate about **analytical thinking, problem-solving, and continuous learning**
-- 💼 Actively seeking roles as **Data Analyst / Business Analyst / Data Science Fresher**
+![AI/ML Engineer](https://img.shields.io/badge/AI%20%2F%20ML%20Engineer-8B5CF6?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-2563EB?style=flat-square) ![LLMs & AI Agents](https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-0F6E56?style=flat-square) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-92400E?style=flat-square)
 
 ---
 
-### 🛠️ Skills & Tools
-- **Programming & Analytics:** Python, SQL  
-- **AI & Machine Learning:** AI fundamentals, ML models  
-- **Data Analysis Tools:** Excel, Power BI  
-- **Visualization:** Dashboards, Charts, Reports  
-- **Core Concepts:** Data Cleaning, EDA, Analytics, Insights  
+## ⚙️ Skills & Tech Stack
+
+| Area | Tools |
+|------|-------|
+| AI / ML | Python, TensorFlow, PyTorch, Scikit-learn, OpenCV |
+| LLMs & Agents | Gemini API, LangChain, Agno, Streamlit |
+| Data & Analytics | SQL, Pandas, NumPy, Power BI, Excel |
+| Dev & Deployment | Git / GitHub, Streamlit Cloud, REST APIs |
 
 ---
 
-### 🌱 I’m Currently Learning
-- Advanced Machine Learning techniques  
-- Business-focused data storytelling  
-- Improving dashboard performance and design  
+## 🚀 Featured Projects
+
+### 🔬 Medical Imaging Diagnosis Agent
+AI agent that analyzes medical scans and generates diagnostic insights using **Gemini 2.0 Flash** and the **Agno** multi-agent framework. Deployed live on Streamlit Cloud.
+`Gemini API` `Agno` `Streamlit` `AI Agent`
+→ [GitHub](https://github.com/siddiq045/Medical-imaging-analysis-agent)
+
+### 🤟 Sign Language Recognition (CNN)
+Deep learning model to classify sign language gestures from images using a convolutional neural network trained on real gesture datasets.
+`CNN` `Computer Vision` `Python` `OpenCV`
+
+### 🛠️ FixRoute — ML-Powered Roadside Assistance
+Platform connecting stranded drivers to nearby mechanics with ML-based service matching and route optimization features.
+`ML` `Python` `Geospatial`
 
 ---
 
-### 👯 I’m Looking to Collaborate On
-- Data analytics projects  
-- Machine learning use cases  
-- Real-world datasets and business problems  
+## 🌱 Currently Exploring
+- Multi-agent AI systems and agentic workflows
+- Fine-tuning and prompt engineering for production LLMs
+- MLOps — model versioning, deployment pipelines, and monitoring
+- End-to-end ML projects with real business impact
 
 ---
 
-### 💬 Ask Me About
-- Data Analysis & Visualization  
-- Python for analytics  
-- SQL queries & data handling  
-- Power BI dashboards  
+## 💬 Ask Me About
+- Building AI agents with LLMs
+- Deep learning and computer vision
+- Data analysis, SQL, and Power BI dashboards
+- Deploying ML models to the web
 
 ---
 
-### 📫 How to Reach Me
-- **GitHub:** https://github.com/siddiq045  
+## 📫 Connect With Me
+- **GitHub:** https://github.com/siddiq045
 - **LinkedIn:** https://www.linkedin.com/in/siddiq45/
 - **Email:** siddiq4507@gmail.com
 
 ---
 
-### ⚡ Fun Fact
-I enjoy working with data because every dataset tells a story waiting to be discovered.
-
-⭐️ *From Abubakar Siddiq*
+⭐️ *Always learning. Always building.*
