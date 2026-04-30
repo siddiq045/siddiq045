@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Abubakar Siddiq**  
-📊 Aspiring Data Analyst | 🤖 AI & ML Enthusiast | 📈 Data-Driven Thinker  
+📊 Aspiring Data Scientist| 🤖 AI & ML Enthusiast | 📈 Data-Driven Thinker  
 
 ---
 
